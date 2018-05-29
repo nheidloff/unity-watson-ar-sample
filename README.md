@@ -12,7 +12,7 @@ Technically the following services and tools are used:
 * [IBM Watson Text To Speech](https://www.ibm.com/watson/services/text-to-speech/)
 * [Weather Company Data](https://console.bluemix.net/catalog/services/weather-company-data)
 
-The picture shows a printed paper with a pattern. When using the app the 3D character shows up on the paper. Users can have conversations with the character, for example:
+The picture shows a printed piece of paper with a pattern. When using the app the 3D character shows up on the paper. Users can have conversations with the character, for example:
 
 * User: How is the weather?
 * Character: In which location?
